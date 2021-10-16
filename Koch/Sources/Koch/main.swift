@@ -13,4 +13,3 @@ struct MySite: Rule {
 
 MySite().execute()
 
-print("hi")
